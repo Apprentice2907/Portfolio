@@ -70,7 +70,7 @@ const TechStackSection = () => {
       <div className="allwork flex justify-around items-center pt-[3vw] pb-[3vw] w-full border-black border-t `mt-[2vw]`">
         <div className="alefts w-[30%]">
           <div className="imgs w-full border border-black" id="imgDiv">
-            <img src="../src/assets/images/SIgnup.jpg" alt="" className="w-full" id="hoverImg" />
+            <img src="/images/SIgnup.jpg" alt="" className="w-full" id="hoverImg" />
           </div>
           <div className="flex justify-start items-center"> 
             <h1 className="font-canopee text-[3vw] items-center">
@@ -99,7 +99,7 @@ const TechStackSection = () => {
         <div className="alefts w-[30%]">
           <div className="imgs w-full border border-black" id="imgDiv">
             <a href="https://www.redbull.com/">
-              <img src="../src/assets/images/intro.jpg" alt="" className="w-full" id="hoverImg" />
+              <img src="/images/intro.jpg" alt="" className="w-full" id="hoverImg" />
             </a>
           </div>
           <div className="flex justify-start items-center">
