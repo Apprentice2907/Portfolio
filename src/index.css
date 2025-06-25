@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Canopee';
+  src: url('/fonts/Canopee.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Domain';
+  src: url('/fonts/DomaineDispCondMedium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Editorial';
+  src: url('/fonts/EditorialNew-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Dynasty';
+  src: url('/fonts/Dynasty Fantazy Demo.ttf') format('truetype');
+}
