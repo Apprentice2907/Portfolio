@@ -90,7 +90,7 @@ const TechStackCards = () => {
                 {stack.items.map(([img, label], i) => (
                   <div key={i} className="flex items-center mt-[1px]">
                     <img
-                      src={`../src/assets/images/${img}`}
+                      src={`/images/${img}`}
                       alt={label}
                       width={28}
                       height={28}
